@@ -1,0 +1,32 @@
+{
+    "ticketEmbed": {
+        "title": "Create Ticket",
+        "description": "Please Read Our <#1273263917157716040> Before Opening a Ticket",
+        "color": "#a4c8fd"
+    },
+    "ticketTypes": [
+        {
+            "name": "Support",
+            "categoryId": "1301822808187207702",
+            "description": "اختر هذا الخيار لطلب الدعم الفني.",
+            "emoji": "<:code:1296870102175846410>"
+        },
+        {
+            "name": "Bug Report",
+            "categoryId": "234567890123456789",
+            "description": "اختر هذا الخيار للإبلاغ عن خطأ.",
+            "emoji": "🐞"
+        },
+        {
+            "name": "Feature Request",
+            "categoryId": "345678901234567890",
+            "description": "اختر هذا الخيار لطلب ميزة جديدة.",
+            "emoji": "✨"
+        }
+    ],
+    "targetChannelId": "1302403245775261797",
+    "allowedUserId": "",
+    "clientId": "1300714209184841809",
+    "guildId": "1273263917157716038",
+    "transcriptChannelId": "1301822907424702474"
+}
