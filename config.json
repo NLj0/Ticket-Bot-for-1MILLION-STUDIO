@@ -1,0 +1,28 @@
+{
+  "allowedRoleId": "1305137116187070514",
+  "clientId": "1300714209184841809",
+  "guildId": "1273263917157716038",
+  "transcriptChannelId": "1301822907424702474",
+  "targetChannelId": "1302403245775261797",
+  "ticketEmbed": {
+    "title": "Create Ticket",
+    "description": "Please Read Our <#1273263917157716040> Before Opening a Ticket",
+    "color": "#a4c8fd"
+  },
+  "ticketTypes": [
+    {
+      "name": "Support",
+      "description": "اختر هذا الخيار لطلب الدعم الفني.",
+      "categoryId": "1301822808187207702",
+      "emoji": "<:code:1296870102175846410>",
+      "allowedCategoryRoleId": "1305137134121779211"
+    },
+    {
+      "name": "استفسار عام",
+      "description": "لطرح الأسئلة العامة.",
+      "categoryId": "1303990330357579777",
+      "emoji": "❓",
+      "allowedCategoryRoleId": "1305137147212206181"
+    }
+  ]
+}
