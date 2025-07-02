@@ -508,7 +508,7 @@ async function handleSelectMenu(interaction) {
             });
 
             // إبلاغ المستخدم بفتح التذكرة
-            await interaction.editReply({ content: `✅ تم فتح تذكرتك: ${ticketChannel}` });
+            await interaction.editReply({ content: `تم فتح تذكرتك: ${ticketChannel}` });
         } catch (error) {
             console.error('❌ خطأ أثناء فتح التذكرة:', error);
 
